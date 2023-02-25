@@ -8,5 +8,5 @@ To run this code:
 
 Run master.py and slave in two separate command line prompts.
 
-## LICENSE
+## License
 This code is licensed under LGPL-2.1 license
