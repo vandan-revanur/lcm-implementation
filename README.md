@@ -7,3 +7,6 @@ This heartbeat message is sent out every second. If any obstacle is detected, th
 To run this code:
 
 Run master.py and slave in two separate command line prompts.
+
+## LICENSE
+This code is licensed under LGPL-2.1 license
